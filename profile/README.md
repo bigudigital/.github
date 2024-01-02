@@ -6,7 +6,7 @@ Welcome to Bigu - Innovating Software! 🚀
 
 ## About Us
 
-🌐 [Visit our website](https://www.bigu.com.br)
+🌐 [Visit our website](https://bigu.digital)
 
 Bigu is a software development company located in Alagoas, Brazil. We are dedicated to delivering innovative and high-quality solutions to our clients. Our technology-driven team constantly seeks to push boundaries and create exceptional software.
 
@@ -36,9 +36,9 @@ Brief description of Project 2. Showcase its significance, contributions, and ho
 
 ## 🌐 Connect with Us
 
-- [Twitter](https://twitter.com/bigu_software)
-- [LinkedIn](https://www.linkedin.com/company/bigu-software)
-- [Email](mailto:contact@bigu.com.br)
+<!-- - [Twitter](https://twitter.com/bigu_software) -->
+- [LinkedIn](https://www.linkedin.com/company/bigudigital)
+- [Email](mailto:contact@bigu.digital)
 
 ## 🤝 How to Contribute
 
