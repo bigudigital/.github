@@ -2,7 +2,7 @@
 
 Welcome to Bigu - Innovating Software! 🚀
 
-![Bigu Software House Logo]([link_to_logo.png](https://bigu.digital/images/bigu-v2.png))
+![Bigu Software House Logo](https://bigu.digital/images/bigu-v2.png)
 
 ## About Us
 
